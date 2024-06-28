@@ -1,3 +1,4 @@
+# hesa modified code
 package Collections.Arraylist;
 
 import java.util.ArrayList;
@@ -7,7 +8,7 @@ public class Amazon {
 
 	public static void main(String[] args) {
 		ArrayList<String> a1=new ArrayList<>();
-		a1.add("sita");
+		a1.add("hema sai");
 		a1.add("usha");
 		a1.add("hema");
 		a1.add("bala");
