@@ -1,4 +1,5 @@
 # Cz modified code
+
 package Collections.Arraylist;
 
 import java.util.ArrayList;
@@ -20,7 +21,7 @@ public class Amazon {
 		a1.add("madhu");
 		System.out.println(a1.size());
 		System.out.println(a1.toString());
-		a1.add("Sai");
+    a1.add("hesa");
 		a1.add("bala");
 		System.out.println(a1);
 		a1.remove(2);
